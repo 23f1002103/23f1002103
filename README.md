@@ -41,7 +41,7 @@ I build full-stack web applications with Python and Vue.js, with a particular in
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
 **Computer Science:** Data Structures & Algorithms · Object-Oriented Programming · Database Management Systems  
-**AI & Data:** Artificial Intelligence · Machine Learning
+**AI & Machine Learning:** Machine learning fundamentals · Building and training models on Kaggle datasets · AI application development
 
 ## Featured Projects
 
