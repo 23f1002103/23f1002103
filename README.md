@@ -53,6 +53,8 @@ A Software Engineering team project for managing logistics and personal moves, w
 - **Project technologies:** Python, FastAPI, Vue 3, PostgreSQL, Redis and Celery.
 - **Team recognition:** Best Course Project for Software Engineering — Rank 2, IIT Madras.
 
+[View certificate (PDF) →](certificates/Software_Engineering_Best_Course_Project.pdf)
+
 [Explore the repository →](https://github.com/singh-yash129/Cargo-Core-AI-Powered-Logistics-Orchestration-Platform)
 
 ### [Household Services Application](https://github.com/23f1002103/mad2)
