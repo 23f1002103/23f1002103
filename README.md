@@ -19,7 +19,7 @@ I build full-stack web applications with Python and Vue.js, with a particular in
 - **Education:** Final year of the IIT Madras Degree Program in Data Science and Applications; expected graduation in June 2027.
 - **Project experience:** Full-stack web projects and collaborative software engineering.
 - **Team contribution:** Backend development for Cargo Core, with additional contributions to frontend design, redesign and application logic.
-- **Recognition:** My team received Best Project recognition for Cargo Core in our Software Engineering course.
+- **Recognition:** My team secured Rank 2 in Best Course Project for Software Engineering, IIT Madras.
 - **Interests:** Software development, backend systems and practical applications of AI and machine learning.
 - **Opportunities:** Open to SDE and Full-Stack Development internships.
 
@@ -51,7 +51,7 @@ A Software Engineering team project for managing logistics and personal moves, w
 
 - **My role:** Backend development, plus contributions to frontend design, redesign and application logic.
 - **Project technologies:** Python, FastAPI, Vue 3, PostgreSQL, Redis and Celery.
-- **Team recognition:** Best Project in our Software Engineering course.
+- **Team recognition:** Best Course Project for Software Engineering — Rank 2, IIT Madras.
 
 [Explore the repository →](https://github.com/singh-yash129/Cargo-Core-AI-Powered-Logistics-Orchestration-Platform)
 
