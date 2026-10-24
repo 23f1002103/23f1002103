@@ -49,7 +49,9 @@ I build full-stack web applications with Python and Vue.js, with a particular in
 
 A Software Engineering team project for managing logistics and personal moves, with modules for orders, warehouses, inventory and tracking.
 
-- **My role:** Backend development, plus contributions to frontend design, redesign and application logic.
+- **My role:** Backend developer, with additional contributions to frontend design, redesign and application logic.
+- **Backend work:** Authentication and role-based access, order lifecycle APIs, warehouse inventory workflows and driver tracking.
+- **Architecture:** FastAPI routers, service-layer business logic and asynchronous SQLAlchemy database access.
 - **Project technologies:** Python, FastAPI, Vue 3, PostgreSQL, Redis and Celery.
 - **Team recognition:** Best Course Project for Software Engineering — Rank 2, IIT Madras.
 
