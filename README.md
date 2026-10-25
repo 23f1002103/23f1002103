@@ -59,15 +59,17 @@ A Software Engineering team project for managing logistics and personal moves, w
 
 [Explore the repository →](https://github.com/singh-yash129/Cargo-Core-AI-Powered-Logistics-Orchestration-Platform)
 
-### [Household Services Application](https://github.com/23f1002103/mad2)
+### [HomeServe — Household Services Platform](https://github.com/23f1002103/homeserve-service-platform)
 
-A full-stack application connecting customers with service professionals, with separate customer, professional and administrator views.
+A deployed full-stack platform connecting customers with verified service professionals through separate customer, professional and administrator workflows.
 
-- Service listings, booking workflows, professional management and customer reviews.
-- Background tasks for activity reports, reminders and CSV exports.
-- **Project technologies:** Python, Flask, Vue.js, SQLAlchemy and Celery.
+- Role-based JWT authentication, professional approval and blocking, service and service-area management.
+- End-to-end booking lifecycle with location validation, test payments, job completion, ratings and reviews.
+- Administrative demand and revenue reporting, invoice and CSV exports, plus Celery-based email and reminder workflows.
+- **Project technologies:** Python, Flask, Vue.js, PostgreSQL, SQLAlchemy, Celery and Redis.
+- **Deployment:** Docker on Render with Neon PostgreSQL.
 
-[Explore the repository →](https://github.com/23f1002103/mad2)
+[View live application →](https://homeserve-service-platform.onrender.com) · [Explore the repository →](https://github.com/23f1002103/homeserve-service-platform)
 
 ### [TDS Virtual TA — Retrieval-Based Question Answering](https://github.com/23f1002103/tds-chatbot-deploy)
 
